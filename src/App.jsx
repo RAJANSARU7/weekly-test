@@ -15,7 +15,7 @@ export default function App() {
     <div className="text-[#3F83F8] flex  ">
 
     <div className="sm:text-[15px] md:text-[24px]" >Learn more about inner source </div>
-    <div className='pt-[6px] pl-2'>  <FaArrowRight />
+    <div className='pt-[14px] pl-2'>  <FaArrowRight />
     </div>
       </div>
       <div className="flex  md:m-4  md:gap-10 sm:gap-5 sm:flex-col xl:flex-row ">
